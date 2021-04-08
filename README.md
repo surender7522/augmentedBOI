@@ -1,6 +1,8 @@
 # augmentedBOI
 ## Markerless augmented reality application
+[Detailed Architecture Document](https://github.com/surender7522/augmentedBOI/blob/master/Title_%20CS653%20Project_%20AugmentedBOI.pdf)
 
+[Presentation](https://github.com/surender7522/augmentedBOI/blob/master/Presentation%208.pdf)
 ## Architecture
 <img width="599" alt="Screen Shot 2021-04-08 at 15 01 59" src="https://user-images.githubusercontent.com/10762179/113976096-7bc77280-987b-11eb-9ddd-ce5fc9a36cbb.png">
 
